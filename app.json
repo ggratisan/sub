@@ -1,17 +1,17 @@
 {
-    "name": "SubtitlesBot",
-    "description": "A simple subtitle bot made in python. Create your Fork now.",
+    "name": "Subbot",
+    "description": "Bot keren kami.",
     "keywords": [
         "telegram",
         "subtitle",
         "searcher",
         "download"
     ],
-    "website": "https://github.com/Anandpskerala/SubtitlesBot",
-    "repository": "https://github.com/Anandpskerala/SubtitlesBot",
+    "website": "https://github.com/ggratisan/sub",
+    "repository": "https://github.com/ggratisan/sub",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token",
+            "description": "Bot tokenmu",
             "value": ""
         }
       },
